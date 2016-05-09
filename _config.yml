@@ -1,7 +1,7 @@
 name: sasadasalwo
 favicon: null
 layout_spectrum: 0.44472328084520996
-typography_spectrum: 0.5197856738232076
+typography_spectrum: 0.18936
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#a26216'
+    - '#ffa32a'
+    - '#222d2c'
+    - '#fffcd9'
+    - '#76a583'
   brandStrength: 0.6726433364674449
   lightness: 0.8050425495021045
   saturation: 0.02833968447521329
